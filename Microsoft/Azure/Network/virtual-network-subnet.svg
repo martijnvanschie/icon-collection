@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="264.13571"
+   height="185.3309"
+   version="1.1"
+   id="svg18"
+   sodipodi:docname="svg.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview20"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.9983453"
+     inkscape:cx="36.560497"
+     inkscape:cy="92.653313"
+     inkscape:window-width="3840"
+     inkscape:window-height="2294"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg18" />
+  <defs
+     id="defs7">
+    <linearGradient
+       y2="10.229994"
+       x2="7.8100057"
+       y1="8.5900097"
+       x1="6.179997"
+       id="b"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#86d633"
+         offset="0"
+         id="stop2" />
+      <stop
+         stop-color="#5e9624"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+  </defs>
+  <g
+     id="g16"
+     transform="matrix(17.18657,0,0,17.18657,-23.773279,-61.996495)">
+    <title
+       id="title9">Layer 1</title>
+    <circle
+       id="svg_2"
+       fill="url(#b)"
+       r="1.16"
+       cy="9"
+       cx="9.04"
+       style="fill:url(#b)" />
+    <path
+       id="svg_4"
+       fill="#50e6ff"
+       d="m 7.56972,13.638 -0.664,0.665 a 0.3,0.3 0 0 1 -0.424,0 l -4.914,-4.899 a 0.6,0.6 0 0 1 -0.001,-0.848 l 0.663,-0.666 5.34,5.324 a 0.3,0.3 0 0 1 0,0.425 z" />
+    <path
+       id="svg_5"
+       fill="#1490df"
+       d="m 6.80572,3.708 0.666,0.664 a 0.3,0.3 0 0 1 0,0.424 l -5.246,5.261 -0.666,-0.663 a 0.6,0.6 0 0 1 -10e-4,-0.849 l 4.823,-4.835 a 0.3,0.3 0 0 1 0.424,0 z" />
+    <path
+       id="svg_6"
+       fill="#50e6ff"
+       d="m 15.907,7.88 0.663,0.666 a 0.6,0.6 0 0 1 0,0.848 l -4.915,4.9 a 0.3,0.3 0 0 1 -0.424,0 l -0.664,-0.666 a 0.3,0.3 0 0 1 0,-0.424 z" />
+    <path
+       id="svg_7"
+       fill="#1490df"
+       d="M 16.568,9.387 15.903,10.051 10.656,4.79 a 0.3,0.3 0 0 1 0,-0.425 l 0.674,-0.67 a 0.3,0.3 0 0 1 0.424,0 l 4.823,4.836 A 0.6,0.6 0 0 1 16.575,9.38 Z" />
+  </g>
+</svg>
