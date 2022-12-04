@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 400 85.823">
+  <polygon fill-rule="evenodd" clip-rule="evenodd" fill="#1A6284" points="84.87,85.822 0,85.822 27.564,53.201 0,20.578
+    84.87,20.578 "/>
+  <polygon fill-rule="evenodd" clip-rule="evenodd" fill="#1A6284" points="315.158,85.822 400.026,85.822 372.463,53.201
+    400.026,20.578 315.158,20.578 "/>
+  <rect x="44.35" fill-rule="evenodd" clip-rule="evenodd" fill="#1E7297" width="311.328" height="65.242"/>
+  <polygon fill-rule="evenodd" clip-rule="evenodd" fill="#125473" points="44.35,65.242 84.87,65.242 84.87,85.822 "/>
+  <polygon fill-rule="evenodd" clip-rule="evenodd" fill="#125473" points="355.678,65.242 315.158,65.242 315.158,85.822 "/>
+</svg>
